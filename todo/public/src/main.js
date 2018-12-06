@@ -6,7 +6,7 @@ import App from './components/App.vue';
 new Vue({
     el: 'app',
     created: function () {
-        console.log('root instance was created')
+        console.log('root instance was created');
     },
     components: {
         App
